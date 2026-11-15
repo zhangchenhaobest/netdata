@@ -1,3 +1,29 @@
+# netdata
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The fastest path to AI-powered full stack observability, even for lean teams.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向精简团队的 AI 驱动全栈可观测性最快路径。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
 <a href="https://www.netdata.cloud#gh-light-mode-only">
   <img src="https://www.netdata.cloud/img/readme-images/netdata_readme_logo_light.png" alt="Netdata" width="300"/>
